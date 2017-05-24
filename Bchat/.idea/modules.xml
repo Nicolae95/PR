@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tcp-chat.iml" filepath="$PROJECT_DIR$/.idea/modules/tcp-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tcp-chat_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tcp-chat_main.iml" group="tcp-chat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tcp-chat_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tcp-chat_test.iml" group="tcp-chat" />
+    </modules>
+  </component>
+</project>
